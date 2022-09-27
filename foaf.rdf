@@ -1,3 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:ex="http://ex/#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+        <foaf:Person>
 <foaf:name>Mariem BEN SALaH</foaf:name>
 <foaf:title>Mme.</foaf:title>
 
@@ -5,4 +10,7 @@
 <foaf:family_name>BEN SALaH</foaf:family_name>
 <foaf:dateOfBirth>06/01/1995</foaf:dateOfBirth>
 <foaf:homepage rdf:resource="https://bensalahmyriam.github.io." dc:title="Page personnelle"/>
-<foaf:gender>Female</foaf:gender>
+<foaf:gender>Female</foaf:gender>        </foaf:Person>
+</rdf:RDF>
+
+
