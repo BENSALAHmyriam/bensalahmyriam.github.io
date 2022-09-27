@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:ex="http://ex/#"
-xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-xmlns:foaf="http://xmlns.com/foaf/0.1/">
-        <foaf:Person>
+<?xml-stylesheet href="transform.xslt" type="text/xsl"?>
+
+<rdf:RDF 
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+        <foaf:Person  rdf:ID="moi">
 <foaf:name>Mariem BEN SALaH</foaf:name>
 <foaf:title>Mme.</foaf:title>
-
 <foaf:givenname>Mariem</foaf:givenname>
 <foaf:family_name>BEN SALaH</foaf:family_name>
 <foaf:dateOfBirth>06/01/1995</foaf:dateOfBirth>
+<foaf:gender>Female</foaf:gender>       
 <foaf:homepage rdf:resource="https://bensalahmyriam.github.io."/>
-<foaf:gender>Female</foaf:gender>        </foaf:Person>
+ </foaf:Person>
 </rdf:RDF>
-
 
