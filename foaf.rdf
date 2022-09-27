@@ -1,0 +1,8 @@
+<foaf:name>Mariem BEN SALaH</foaf:name>
+<foaf:title>Mme.</foaf:title>
+
+<foaf:givenname>Mariem</foaf:givenname>
+<foaf:family_name>BEN SALaH</foaf:family_name>
+<foaf:dateOfBirth>06/01/1995</foaf:dateOfBirth>
+<foaf:homepage rdf:resource="https://bensalahmyriam.github.io." dc:title="Page personnelle"/>
+<foaf:gender>Female</foaf:gender>
