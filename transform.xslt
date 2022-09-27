@@ -5,12 +5,8 @@
   xmlns:foaf="http://xmlns.com/foaf/0.1/" >
   <xsl:output method="html" indent="yes" />
   <xsl:template match="rdf:RDF/foaf:Person">
-    <h2>
-      name: <xsl:value-of select="foaf:name" />
-    </h2>
-    <h2>
-        title: <xsl:value-of select="foaf:title" />
-    </h2>
+   
+    
     <h2>
         given name: <xsl:value-of select="foaf:givenname" />
     </h2>
@@ -19,6 +15,9 @@
     </h2>
     <h2>
       gender: <xsl:value-of select="foaf:gender" />
+    </h2> 
+     <h2>
+      dateOfBirth: <xsl:value-of select="foaf:dateOfBirth" />
     </h2>
   
     <br />

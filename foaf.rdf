@@ -7,8 +7,6 @@
       xmlns:foaf="http://xmlns.com/foaf/0.1/"
       xmlns:admin="http://webns.net/mvcb/">
         <foaf:Person  rdf:ID="moi">
-<foaf:name>Mariem BEN SALaH</foaf:name>
-<foaf:title>Mme.</foaf:title>
 <foaf:givenname>Mariem</foaf:givenname>
 <foaf:family_name>BEN SALaH</foaf:family_name>
 <foaf:dateOfBirth>06/01/1995</foaf:dateOfBirth>
